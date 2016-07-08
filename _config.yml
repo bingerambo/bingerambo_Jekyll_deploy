@@ -1,10 +1,10 @@
 # Site settings
 title: Binge Blog
-SEOTitle: 我的博客 | My Blog
+SEOTitle: 斌哥的博客 | Binge Blog
 header-img: img/home-bg.jpg
 email: feibinge@163.com
-description: ""
-keyword: ""
+description: "斌哥的博客 | 这里是 @BingeRambo斌哥兰博的个人博客"
+keyword: "Binge, 技术, 健身, Binge Blog, 杂谈, 博客, 个人网站, 互联网, 前端, 设计, 产品，Engineer"
 url: "http://bingerambo.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -59,7 +59,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 
+ba_track_id: 53ff669f84c15b8fce8b0be229e5425a
 # Google Analytics
 ga_track_id:             # Format: UA-xxxxxx-xx
 ga_domain: 

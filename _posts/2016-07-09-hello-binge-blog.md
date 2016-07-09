@@ -1,12 +1,12 @@
 ---
-layout:     post
-title:      "欢迎光临我的博客"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2016-07-09 12:00:00
-author:     "Binge"
-header-img: "img/post-bg-2015.jpg"
-tags:
+layout: post
+title:      "欢迎来到 Binge Blog"
+subtitle:   "开博了"
+tags:       
     - 生活
+date:       2016-07-09
+author:     "Binge"
+bg-color: "linear-gradient(200deg, #7b888e, #0085a1)"
 ---
 
 

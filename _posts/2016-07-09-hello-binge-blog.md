@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "欢迎来到 Binge Blog"
-subtitle:   "开博了,等你来"
+subtitle:   "开博了，等你来"
 tags:       
     - 生活
 date:       2016-07-09

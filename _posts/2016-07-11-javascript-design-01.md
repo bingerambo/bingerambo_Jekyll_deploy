@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title:      "javascript 模式设计-01"
+title:      "JavaScript 模式设计-01"
 subtitle:   "模块加载"
-categories: [前端, 设计模式]
+categories: [Web, DesignPattern]
 tags:       
-    - javascript
+    - JavaScript
 date:       2016-07-11 8:00
 author:     "Binge"
 header-img: "img/post-bg-js-version.jpg"

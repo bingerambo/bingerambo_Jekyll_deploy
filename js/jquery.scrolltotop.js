@@ -42,11 +42,6 @@ var scrolltotop={
 		if (this.state.shouldvisible && !this.state.isvisible){
 			this.$control.stop().animate({opacity:1}, this.setting.fadeduration[0])
 			this.state.isvisible=true
-
-			setTimeout(function(){
-				scrolltotop.$control.stop().animate({opacity:0}, this.setting.fadeduration[1])
-				scrolltotop.state.isvisible=false;
-			}, 1000);
 		}
 		else if (this.state.shouldvisible==false && this.state.isvisible){
 			this.$control.stop().animate({opacity:0}, this.setting.fadeduration[1])

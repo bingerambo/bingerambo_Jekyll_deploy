@@ -82,10 +82,10 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
+        title: "GaoFang",
+        href: "http://weidian.com/?userid=513951903&wfr=wx_profile"
+    },{
         title: "Hux Blog",
         href: "http://huangxuan.me"
-    },{
-        title: "GaoFang",
-        href: "#"
     }
 ]

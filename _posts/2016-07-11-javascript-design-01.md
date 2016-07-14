@@ -3,7 +3,7 @@
 layout: post
 title:      "JavaScript 模式设计-01"
 subtitle:   "模块加载"
-categories: [Web, DesignPattern]
+categories: [Web]
 tags:       
     - JavaScript
 date:       2016-07-11 8:00

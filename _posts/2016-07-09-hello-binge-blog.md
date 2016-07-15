@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "欢迎来到 Binge Blog"
+title:      "Welcome to Binge Blog"
 subtitle:   "开博了，等你来"
 tags:       
     - 生活
@@ -29,10 +29,6 @@ Binge Blog 终于慢腾腾地开通了。。。
 ### 正文
 
 关于小站：
-
-* 建站：采用[GitHub](https://github.com/) + [Jekyll](http://jekyllrb.com/) 技术组合套餐，实现了在全球最大的同性交友平台GitHub上的站点发布，流行时尚。
-
-* 域名：[icalligraph.com](http://icalligraph.com/)，小站终可挂牌运行。在[GoDaddy](https://godaddy.com)注册，快速生效。
 
 * 内容：采用分类标签管理，整理笔记和感想，有关技术、阅读、兴趣和其它杂谈。
 

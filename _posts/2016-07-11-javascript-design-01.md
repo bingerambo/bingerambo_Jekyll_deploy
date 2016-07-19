@@ -8,7 +8,7 @@ tags:
     - JavaScript
 date:       2016-07-11 8:00
 author:     "Binge"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-bg-js-blue.jpg"
 bg-color: "linear-gradient(200deg, #7b888e, #0085a1)"
 
 ---

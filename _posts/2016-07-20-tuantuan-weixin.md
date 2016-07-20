@@ -18,8 +18,8 @@ bg-color: "linear-gradient(200deg, #7b888e, #0085a1)"
 <script type="text/javascript">
 $(function(){
     $('img').each(function(index,element){
-        // var img_url = $(this).attr('data-src');
-        $(this).attr('src', $(this).attr('data-src'));
+        var img_url = 'http://img.wtoutiao.com/?url=' + $(this).attr('data-src');
+        $(this).attr('src', img_url);
     });    
 });
 

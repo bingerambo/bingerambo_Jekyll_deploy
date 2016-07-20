@@ -14,14 +14,25 @@ bg-color: "linear-gradient(200deg, #7b888e, #0085a1)"
 >                                                  ——笔者
 
 
-### 前言
+<iframe src="http://mp.weixin.qq.com/s?__biz=MzA5MTU1NzQ1Mw==&mid=401932568&idx=1&sn=014225640dab4ad9ba05d051f52a5f29&ptlang=2052&ADUIN=251995735&ADSESSION=1468973064&ADTAG=CLIENT.QQ.5425_.0&ADPUBNO=26509#rd" id="iframepage" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" onLoad="iFrameHeight()" style="width:100%"></iframe>
 
-Binge Blog 终于慢腾腾地开通了。。。
 
-[啰嗦不看，只看正文 ——>](#build)
+<script type="text/javascript" language="javascript">   
 
-两年前就想搭个站玩玩，结果各种原因未能实现。直到今年，这种想法日益强烈，光说不干假把式，于是便利用两个周末时间，完成自己的小站。
-这样，能有个地儿可以折腾点自己的东西，还是蛮有意思的。
+function iFrameHeight() {   
 
-<p id="build"></p>
----
+var ifm= document.getElementById("iframepage");   
+
+var subWeb = document.frames ? document.frames["iframepage"].document : ifm.contentDocument;   
+
+if(ifm != null && subWeb != null) {
+
+   ifm.height = subWeb.body.scrollHeight;
+
+   ifm.width = subWeb.body.scrollWidth;
+
+}   
+
+}   
+
+</script>

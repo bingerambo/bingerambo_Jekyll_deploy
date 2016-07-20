@@ -23,7 +23,7 @@ bg-color: "linear-gradient(200deg, #7b888e, #0085a1)"
     另外一个是模块可以动态加载，删除和替换。
     <br />
     <br />
-    在JavaScript里，我们又几种方式来实现模块，大家熟知的是module模式和对象字面量,如果你已经熟悉这些，请忽略此小节，直接跳到CommonJS部分。
+    在JavaScript里，我们有几种方式来实现模块，大家熟知的是module模式和对象字面量,如果你已经熟悉这些，请忽略此小节，直接跳到CommonJS部分。
     <br />
     <br /> <strong>Module模式</strong>
     <br />

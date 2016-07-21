@@ -93,7 +93,7 @@ __注：*Octocat（章鱼猫）＝ Octopus（章鱼）+ Cat（猫）*__
 
 #### 4. 友情链接介绍
 
-* Tuantuan.G：是设计师，也是小伙伴。有想法，有理念。爱画画，有创意。从视觉设计，到UI平面,哪怕通宵达旦，也要设计漂亮。去她那里逛逛吧：[@Tuantuan.G](http://weidian.com/?userid=513951903&wfr=wx_profile)
+* Tuantuan.G：是设计师，也是小伙伴。有想法，有理念。爱画画，有创意。从视觉设计，到UI平面。哪怕通宵达旦，也要设计漂亮。。。去她那里逛逛吧：[@Tuantuan.G](http://weidian.com/?userid=513951903&wfr=wx_profile)
 
 
 * 索洪波：是程序员，也是段子手，低调深刻有内涵。去他的小站看看吧：[@索洪波](http://suohb.com)

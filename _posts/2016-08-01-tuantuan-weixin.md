@@ -1,17 +1,17 @@
 ---
 layout: post
-title:      "TUANTUAN Design"
-subtitle:   "设计小品，新鲜出炉"
+title:      "禁止低头"
+subtitle:   "设计小文，原创出品"
 tags:       
     - 设计
-date:       2016-07-19 8:00
-author:     "团团"
+date:       2016-08-01 18:00
+author:     "Tuantuan.G"
 bg-color: "linear-gradient(200deg, #7b888e, #0085a1)"
 ---
 
 
->  “这是设计的第一版，从外链过来的文章。请观看。”
->                                                  ——笔者
+>  “在这座喧嚣的城市，每天低头的忙碌，浮躁的心情，使得渐渐不再关心身边的人，慢慢不再留意周遭景物。而Tuantuan.G的随笔图文，以发现美的心灵，撷取了这座城和你我身边的美丽片景。。。”
+>                                                  ——Binge
 
 
 <p style="text-align: center;">

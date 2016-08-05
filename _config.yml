@@ -64,7 +64,8 @@ ba_track_id: 615a77d6968f5cb549fa3f90655e401b
 ga_track_id: 'UA-81425808-1'    # Format: UA-xxxxxx-xx        
 ga_domain: bingerambo.com
 
-
+#Baidu js push 
+ba_push: baidu_js_push
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.

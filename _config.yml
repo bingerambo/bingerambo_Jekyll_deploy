@@ -88,5 +88,11 @@ friends: [
     },{
         title: "索洪波",
         href: "http://suohb.com"
+    },{
+        title: "阮一峰",
+        href: "http://www.ruanyifeng.com/blog/"
+    },{
+        title: "廖雪峰",
+        href: "http://www.liaoxuefeng.com/"
     }
 ]

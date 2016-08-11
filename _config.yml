@@ -1,11 +1,11 @@
 # Site settings
 title: Binge Blog
-SEOTitle: 斌哥的博客 | Binge Blog
+SEOTitle: 斌哥的博客小站 | Binge Blog
 header-img: img/home-bg.jpg
 email: feibinge@163.com
-description: "斌哥的博客 | 这里是 @BingeRambo斌哥兰博的个人博客"
+description: "斌哥的小站 | 这里是 @BingeRambo斌哥兰博的个人博客"
 keyword: "斌哥, Binge, 小站, 健身, Binge Blog, 杂谈, 博客, 个人网站, 互联网, 前端, 设计, 产品，Engineer"
-url: "http://bingerambo.github.io"              # your host, for absolute URL
+url: "http://bingerambo.com"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -64,7 +64,8 @@ ba_track_id: 615a77d6968f5cb549fa3f90655e401b
 ga_track_id: 'UA-81425808-1'    # Format: UA-xxxxxx-xx        
 ga_domain: bingerambo.com
 
-
+#Baidu js push 
+ba_push: baidu_js_push
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -87,5 +88,11 @@ friends: [
     },{
         title: "索洪波",
         href: "http://suohb.com"
+    },{
+        title: "阮一峰",
+        href: "http://www.ruanyifeng.com/blog/"
+    },{
+        title: "廖雪峰",
+        href: "http://www.liaoxuefeng.com/"
     }
 ]

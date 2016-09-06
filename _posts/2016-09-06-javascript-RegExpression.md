@@ -19,6 +19,7 @@ bg-color: "linear-gradient(200deg, #7b888e, #0085a1)"
 <br />
 <br />
 
+```md
 整数或者小数：^[0-9]+\.{0,1}[0-9]{0,2}$
 
 只能输入数字："^[0-9]*$"。
@@ -72,6 +73,7 @@ bg-color: "linear-gradient(200deg, #7b888e, #0085a1)"
 匹配中文字符的正则表达式： [\u4e00-\u9fa5]
 
 匹配双字节字符(包括汉字在内)：[^\x00-\xff]
+```
 
 应用：计算字符串的长度（一个双字节字符长度计2，ASCII字符计1）
 
@@ -79,11 +81,13 @@ bg-color: "linear-gradient(200deg, #7b888e, #0085a1)"
 String.prototype.len=function(){return this.replace(/[^\x00-\xff]/g,"aa").length;}
 ```
 
+```md
 匹配空行的正则表达式：\n[\s| ]*\r
 
 匹配html标签的正则表达式：<(.*)>(.*)<\/(.*)>|<(.*)\/>
 
 匹配首尾空格的正则表达式：(^\s*)|(\s*$)
+```
 
 应用：javascript中没有像vbscript那样的trim函数，我们就可以利用这个表达式来实现，如下：
 

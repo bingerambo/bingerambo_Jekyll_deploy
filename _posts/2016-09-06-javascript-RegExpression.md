@@ -19,7 +19,7 @@ bg-color: "linear-gradient(200deg, #7b888e, #0085a1)"
 <br />
 <br />
 
-```md
+```html
 整数或者小数：^[0-9]+\.{0,1}[0-9]{0,2}$
 
 只能输入数字："^[0-9]*$"。
@@ -81,7 +81,7 @@ bg-color: "linear-gradient(200deg, #7b888e, #0085a1)"
 String.prototype.len=function(){return this.replace(/[^\x00-\xff]/g,"aa").length;}
 ```
 
-```md
+```html
 匹配空行的正则表达式：\n[\s| ]*\r
 
 匹配html标签的正则表达式：<(.*)>(.*)<\/(.*)>|<(.*)\/>

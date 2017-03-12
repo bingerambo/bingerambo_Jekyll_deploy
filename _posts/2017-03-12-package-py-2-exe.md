@@ -17,7 +17,7 @@ bg-color: "linear-gradient(200deg, #7b888e, #0085a1)"
 
 ## Python打包exe
 
-* Q: py生成exe，总共需几步？
+* Q：py生成exe，总共需几步？
 * A：总共分三步！
 
 ### 1. 安装PyInstall

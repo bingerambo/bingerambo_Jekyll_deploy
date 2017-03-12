@@ -20,11 +20,11 @@ bg-color: "linear-gradient(200deg, #7b888e, #0085a1)"
 * Q：py生成exe，总共需几步？
 * A：总共分三步！
 
-### 1. 安装PyInstall
+### 1. 安装PyInstaller
 
 
 ```python
-pip install PyInstall
+pip install PyInstaller
 ```
 * 注意：安装包名区分大小写
 
